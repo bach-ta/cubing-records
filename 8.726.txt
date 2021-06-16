@@ -1,0 +1,10 @@
+8.726   B U2 B2 L2 D B2 F2 R2 D U2 F2 L2 R U' B U2 R2 U2 R' D   @2020-07-29 172318
+
+Inspection    : (y2)
+Cross (yellow): R' F R'
+1st F2L       : (y) U L' U L
+2nd F2L       : U2 (y') R' U R d L' U L
+3rd F2L       : (y2) U' R U'2 R' L U' L'
+4th F2L       : R U' R' F R' F' R
+OLL           : U' R' F R U R' U' F' U R
+PLL           : U'

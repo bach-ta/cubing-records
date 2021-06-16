@@ -1,0 +1,10 @@
+13.88   D R2 U2 B2 U F2 U' L2 D B2 R D' U R2 F R' D' B' F   @2021-03-16 19:51:44
+
+Inspection      : (y2)
+X-Cross (white) : F' R U R'(z2) R2 D
+1st F2L         : skipped
+2nd F2L         : R' U R L' U L
+3rd F2L         : U'2 R U' R'
+4th F2L         : (y) U' R U'2 R' (y) U L' U L
+OLL             : U' R' U' R U' R' U R U (x') R U' R' U
+PLL             : (x) R U' R U R U R U' R' U' R2 U'2

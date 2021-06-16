@@ -1,0 +1,10 @@
+8.75   D' R' U2 L' D2 R2 U2 B2 L' F2 D2 B2 U' B' D' F2 L' R2 U' R2 U'   @2020-07-12 19:49:39
+
+Inspection    : 
+Cross (yellow): L' D' R' F' (y) R2 D
+1st F2L       : U L' U L U' L' U' L
+2nd F2L       : R' U R U L U L'
+3rd F2L       : U' R' F R F' R' U' R
+4th F2L       : U' R U'2 R' U' R U R'
+OLL           : skipped
+PLL           : U' (x) R U' R' D R U R' D' R U R' D R U' R' D'

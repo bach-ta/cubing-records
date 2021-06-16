@@ -1,0 +1,9 @@
+8.95   D2 R2 F2 D' R2 B2 U2 L2 B2 D' L2 U' F' R' B R2 F2 U F2 D2 U2   @2020-06-07 12:30:48
+
+Inspection     : (y)(x)
+xCross (yellow): R' D' R L U (x')
+2nd F2L        : U' R U'2 R' U2 R U' R'
+3rd F2L        : (y) U R U' R' (y) R' U' R
+4th F2L        : (y') R U'2 R' U R U' R'
+OLL            : U2 F R U R' U' S R U R' U' f'
+PLL            : U' M'2 U M U2 M' U M'2
