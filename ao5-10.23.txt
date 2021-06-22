@@ -45,7 +45,7 @@ Cross     : L F' R D F D
 1st pair  : U2 L' U' L
 2nd pair  : (y) R' U R2 U R'
 3rd pair  : (y) R U2 R' U L U L'
-4th pair  : U R U2 R U' R U R'
+4th pair  : U R U2 R' U' R U R'
 OLL       : M U R U R' U' M' R' F R F'
 PLL       : U M'2 U M U2 M' U M'2 U
 
