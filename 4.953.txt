@@ -1,0 +1,9 @@
+4.953   D U2 F2 L D2 B2 U2 F2 R' B2 R U F' L' R2 B D2 U F'   @2021-09-12 16:52:48
+
+Inspection: (z2) (y)
+X-Cross   : R' F L F D'
+2nd pair  : R' U' R2 U R'
+3rd pair  : (y) U2 R' U R U' R U R'
+4th pair  : R' U R
+OLL       : U R U R' U R' F R F' R2 U'2 R'
+PLL       : skipped
